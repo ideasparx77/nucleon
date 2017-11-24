@@ -1,7 +1,34 @@
 {
-    "timestamp": "Nov 11, 2017 10:00:00",
-    "version": "0",
-    "pages": [
-        {"more":"", "content":"", "img":""}
-    ]
+	"timestamp": "Nov 24, 2017 08:44:00",
+	"version": "1",
+	"pages": [{
+			"more": "Search for Momentum Chrome in Samsung Store to download.",
+			"content": "<img class=\"aadv_contentImage\" src=\"https://static.wixstatic.com/media/43dbe3_5b2c39690a654d9794fba45b27fb2662~mv2.png/v1/fill/w_405,h_405,al_c,lg_1/43dbe3_5b2c39690a654d9794fba45b27fb2662~mv2.png\" />",
+			"img": "https://static.wixstatic.com/media/43dbe3_5b2c39690a654d9794fba45b27fb2662~mv2.png/v1/fill/w_405,h_405,al_c,lg_1/43dbe3_5b2c39690a654d9794fba45b27fb2662~mv2.png"
+		}, {
+			"more": "Search for Momentum Z in Samsung Store to download.",
+			"content": "<img class=\"aadv_contentImage\" src=\"https://static.wixstatic.com/media/43dbe3_c924a317f89d491681e21bea55b42c7a~mv2.png/v1/fill/w_405,h_405,al_c,lg_1/43dbe3_c924a317f89d491681e21bea55b42c7a~mv2.png\" />",
+			"img": "https://static.wixstatic.com/media/43dbe3_c924a317f89d491681e21bea55b42c7a~mv2.png/v1/fill/w_405,h_405,al_c,lg_1/43dbe3_c924a317f89d491681e21bea55b42c7a~mv2.png"
+		}, {
+			"more": "Search for Spectrum in Samsung Store to download.",
+			"content": "<img class=\"aadv_contentImage\" src=\"https://static.wixstatic.com/media/43dbe3_460450c076d54ca49a2fe81e1e2491c6~mv2.png/v1/fill/w_405,h_405,al_c,lg_1/43dbe3_460450c076d54ca49a2fe81e1e2491c6~mv2.png\" />",
+			"img": "https://static.wixstatic.com/media/43dbe3_460450c076d54ca49a2fe81e1e2491c6~mv2.png/v1/fill/w_405,h_405,al_c,lg_1/43dbe3_460450c076d54ca49a2fe81e1e2491c6~mv2.png"
+		}, {
+			"more": "Search for Nebula in Samsung Store to download.",
+			"content": "<img class=\"aadv_contentImage\" src=\"https://static.wixstatic.com/media/43dbe3_f33ffac4752a47a49d88ad113181450e~mv2.png/v1/fill/w_405,h_405,al_c,lg_1/43dbe3_f33ffac4752a47a49d88ad113181450e~mv2.png\" />",
+			"img": "https://static.wixstatic.com/media/43dbe3_f33ffac4752a47a49d88ad113181450e~mv2.png/v1/fill/w_405,h_405,al_c,lg_1/43dbe3_f33ffac4752a47a49d88ad113181450e~mv2.png"
+		}, {
+			"more": "Search for Quantum in Samsung Store to download.",
+			"content": "<img class=\"aadv_contentImage\" src=\"https://static.wixstatic.com/media/43dbe3_2f3ce0a29a224a48af5d46047f185912~mv2.png/v1/fill/w_405,h_405,al_c,lg_1/43dbe3_2f3ce0a29a224a48af5d46047f185912~mv2.png\" />",
+			"img": "https://static.wixstatic.com/media/43dbe3_2f3ce0a29a224a48af5d46047f185912~mv2.png/v1/fill/w_405,h_405,al_c,lg_1/43dbe3_2f3ce0a29a224a48af5d46047f185912~mv2.png"
+		}, {
+			"more": "Search for Vector in Samsung Store to download.",
+			"content": "<img class=\"aadv_contentImage\" src=\"https://static.wixstatic.com/media/43dbe3_56b52eb9714f4e5aba150723609aa10c~mv2.png/v1/fill/w_405,h_405,al_c,lg_1/43dbe3_56b52eb9714f4e5aba150723609aa10c~mv2.png\" />",
+			"img": "https://static.wixstatic.com/media/43dbe3_56b52eb9714f4e5aba150723609aa10c~mv2.png/v1/fill/w_405,h_405,al_c,lg_1/43dbe3_56b52eb9714f4e5aba150723609aa10c~mv2.png"
+		}, {
+			"more": "Search for Force in Samsung Store to download.",
+			"content": "<img class=\"aadv_contentImage\" src=\"https://static.wixstatic.com/media/43dbe3_f3e098a1f1ab4a2eaeff01468dc72e67~mv2.png/v1/fill/w_405,h_405,al_c,lg_1/43dbe3_f3e098a1f1ab4a2eaeff01468dc72e67~mv2.png\" />",
+			"img": "https://static.wixstatic.com/media/43dbe3_f3e098a1f1ab4a2eaeff01468dc72e67~mv2.png/v1/fill/w_405,h_405,al_c,lg_1/43dbe3_f3e098a1f1ab4a2eaeff01468dc72e67~mv2.png"
+		}
+	]
 }

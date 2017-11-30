@@ -1,9 +1,9 @@
 {
-	"timestamp": "Nov 24, 2017 09:01:00",
+	"timestamp": "Nov 24, 2017 09:02:00",
 	"version": "3",
 	"pages": [{
 			"more": "Search for Vector Chrome in Samsung Store to download.",
-			"content": "<img class=\"aadv_contentImage\" src=\"https://static.wixstatic.com/media/43dbe3_db4bbda094dd4e79931ecad66ccb8ca9~mv2.jpg\" />",
+			"content": "<img class=\"aadv_contentImage\" src=\"https://static.wixstatic.com/media/43dbe3_db4bbda094dd4e79931ecad66ccb8ca9~mv2.jpg\" /><script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-109222476-2\"></script><script>  window.dataLayer = window.dataLayer || [];  function gtag(){dataLayer.push(arguments);}  gtag('js', new Date());  gtag('config', 'UA-109222476-2');</script>",
 			"img": "https://static.wixstatic.com/media/43dbe3_db4bbda094dd4e79931ecad66ccb8ca9~mv2.jpg"
 		}, {
 			"more": "Search for Momentum Chrome in Samsung Store to download.",

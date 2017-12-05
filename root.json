@@ -1,7 +1,13 @@
 {
-	"timestamp": "Nov 24, 2017 09:04:00",
+	"timestamp": "Nov 24, 2017 09:10:00",
 	"version": "3",
-	"pages": [{
+	"pages": [
+		{
+			"more": "Search for Glance Hive in Samsung Store to download.",
+			"content": "<img class=\"aadv_contentImage\" src=\"https://goo.gl/xCkxjh\" />",
+			"img": "https://goo.gl/xCkxjh"
+		},
+		{
 			"more": "Search for Vector Chrome in Samsung Store to download.",
 			"content": "<img class=\"aadv_contentImage\" src=\"https://goo.gl/gFHDLU\" />",
 			"img": "https://goo.gl/gFHDLU"
